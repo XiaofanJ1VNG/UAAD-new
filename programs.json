@@ -591,7 +591,7 @@
     }
   },
   {
-    "title": "Hortus Apertus & Bacchanalia 2.0 x FLORA",
+    "title": "FLORA Soirées",
     "date": "Jan 29, 2026 / Oct 30, 2025",
     "venue": "FLORA HQ",
     "tags": [
@@ -600,12 +600,77 @@
       "Curation"
     ],
     "section": "IRL",
-    "url": "https://partiful.com/e/5N3IOYXxAtM9Eew9EbPi?source=share",
-    "description": "Two community events at FLORA HQ, with interactive installations curated by UAAD to bring artists and audiences together through shared participation.",
-    "images": [],
+    "url": "",
+    "description": "Four community events at FLORA HQ, with interactive installations curated by UAAD to bring artists and audiences together through shared participation.",
+    "images": [
+      {
+        "src": "images/flora/gallery/2.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/3.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/4.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/5.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/6.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/7.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/8.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/9.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/10.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/11.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/12.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/13.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/14.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/15.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/16.jpg",
+        "alt": "Event photograph"
+      },
+      {
+        "src": "images/flora/gallery/17.jpg",
+        "alt": "Event photograph"
+      }
+    ],
     "slug": "hortus-apertus-x-flora",
     "year": "2026 / 2025",
-    "introduction": "Across Hortus Apertus and Bacchanalia 2.0, UAAD curated interactive installations for FLORA’s community events. The programs brought creative practices into a social setting, inviting guests to encounter artworks through participation, conversation, and collective play.\n\nUAAD’s role: curation of interactive installations.",
+    "introduction": "Across Hortus Apertus, Bacchanalia, Nexus, Inside the Studio, Amy Xiaofan Jiang, Director of UAAD, curated interactive installations for 4 FLORA’s community events. The programs brought creative practices into a social setting, inviting guests to encounter artworks through participation, conversation, and collective play.\n\nUAAD’s role: curation of interactive installations.",
     "artists": [
       {
         "name": "Interactive Items",
@@ -641,9 +706,54 @@
         "name": "Night Shining",
         "headshot": "",
         "piece": ""
+      },
+      {
+        "name": "Testu Collective",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Grace Jung",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Prisha Jain",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "DJ Kim",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "k0j0",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Andy Cabindol",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Anna Zhang",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Doctor Jeep",
+        "headshot": "",
+        "piece": ""
+      },
+      {
+        "name": "Iris Xiaoyu Qu and Niles Fromm",
+        "headshot": "",
+        "piece": ""
       }
     ],
-    "cover": null,
+    "cover": "images/flora/cover.jpg",
     "role": "Interactive installation curation",
     "events": [
       {
