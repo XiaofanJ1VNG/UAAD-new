@@ -1,5 +1,4 @@
-[
-  {
+[{
   "title": "What Kinds of Relations Are We Rehearsing When We Build Worlds Together?",
   "category": "Essay",
   "date": "Oct 6, 2026",
@@ -8,7 +7,7 @@
   "slug": "what-kinds-of-relations-are-we-rehearsing-when-we-build-worlds-together",
   "tags": ["Essay", "Art", "Design", "Tech"],
   "author": "Amy Xiaofan Jiang",
-  "image": "",
+  "image": "images/stories/21.png",
   "excerpt": "An essay on worldbuilding as a relational practice, exploring situated knowledge, synthetic media, and the infrastructures concealed behind frictionless creation.",
   "complete": true,
   "body": [
@@ -30,6 +29,12 @@
       "text": "For a period, this led me to work primarily within virtual curation and immersive storytelling, often collaborating closely with 3D artists to shape not only the works being presented but also the spatial and experiential structures surrounding them. Over time, however, I became increasingly interested in something that seemed to sit underneath the worlds themselves: the language we use to describe how worlds are made. The vocabulary surrounding immersive media and worldbuilding already reveals certain assumptions about what a world is, how it is constructed, and what we perceive its primary substance to be."
     },
     {
+      "type": "image",
+      "src": "images/stories/21.png",
+      "alt": "",
+      "caption": ""
+    },
+    {
       "type": "heading",
       "text": "From Objects to Relations"
     },
@@ -49,6 +54,12 @@
       "type": "paragraph",
       "text": "In Braiding Sweetgrass, botanist and Potawatomi writer Robin Wall Kimmerer describes a different grammar, what she calls a “grammar of animacy.” Mountains, rivers, trees, bays, sweetgrass, and other entities that English often relegates to inert “its” can instead be understood as living presences with agency.",
       "html": "In <em>Braiding Sweetgrass</em>, botanist and Potawatomi writer Robin Wall Kimmerer describes a different grammar, what she calls a “grammar of animacy.” Mountains, rivers, trees, bays, sweetgrass, and other entities that English often relegates to inert “its” can instead be understood as living presences with agency."
+    },
+    {
+      "type": "image",
+      "src": "images/stories/7.png",
+      "alt": "",
+      "caption": ""
     },
     {
       "type": "paragraph",
@@ -73,6 +84,12 @@
     {
       "type": "paragraph",
       "text": "Open a game engine, a large language model interface, or a node-based AI tool. You encounter the blank XYZ viewport, the empty prompt box, the infinite canvas with its single waiting node."
+    },
+    {
+      "type": "image",
+      "src": "images/stories/12-need to replace gif.png",
+      "alt": "",
+      "caption": ""
     },
     {
       "type": "paragraph",
@@ -133,7 +150,13 @@
     {
       "type": "paragraph",
       "text": "In 2023, I initiated a virtual exhibition on the browser-based platform New Art City titled Alt-Alterity. It was an attempt to provoke a co-imagination of a world where the notion of alterity, the state of being other, is rendered obsolete. Working with 29 artists from 19 countries, we asked what it might mean to engage differently with both the other inhabitants of this planet and with each other as humans.",
-      "html": "In 2023, I initiated a virtual exhibition on the browser-based platform New Art City titled <em>Alt-Alterity</em>. It was an attempt to provoke a co-imagination of a world where the notion of alterity, the state of being other, is rendered obsolete. Working with 29 artists from 19 countries, we asked what it might mean to engage differently with both the other inhabitants of this planet and with each other as humans."
+      "html": "In 2023, I initiated a virtual exhibition on the browser-based platform New Art City titled <a href=\"https://uaad.metalabel.com/alt-alterity\"><em>Alt-Alterity</em></a>. It was an attempt to provoke a co-imagination of a world where the notion of alterity, the state of being other, is rendered obsolete. Working with 29 artists from 19 countries, we asked what it might mean to engage differently with both the other inhabitants of this planet and with each other as humans."
+    },
+    {
+      "type": "image",
+      "src": "images/stories/22.png",
+      "alt": "",
+      "caption": ""
     },
     {
       "type": "paragraph",
@@ -143,6 +166,12 @@
       "type": "paragraph",
       "text": "The exhibition unfolded across three chapters: Unsung Wisdom, Rebel Tech; Ephemeral Cycles, Everlasting Collapses; and Fluid Bodies, Blurred Boundaries. Visitors first entered through a spawning space we called the Anchor Point, an ethereal, sci-fi temple-like architecture that functioned less as a lobby than as a threshold into shifting states of relation.",
       "html": "The exhibition unfolded across three chapters: <em>Unsung Wisdom, Rebel Tech</em>; <em>Ephemeral Cycles, Everlasting Collapses</em>; and <em>Fluid Bodies, Blurred Boundaries</em>. Visitors first entered through a spawning space we called the Anchor Point, an ethereal, sci-fi temple-like architecture that functioned less as a lobby than as a threshold into shifting states of relation."
+    },
+    {
+      "type": "image",
+      "src": "images/stories/23.png",
+      "alt": "",
+      "caption": ""
     },
     {
       "type": "paragraph",
@@ -157,13 +186,25 @@
       "text": "We also made a publication that offered a deeper investigation into each artist’s intentions and processes. The contributors included not only contemporary artists but also designers and strategists, many of whom merged inquiries in science and art, combining creative experimentation with philosophical exploration. Their practices aimed not only to express artistic visions but also to embody forms of socially and planetarily responsible agency."
     },
     {
+      "type": "image",
+      "src": "images/stories/24.png",
+      "alt": "",
+      "caption": ""
+    },
+    {
       "type": "paragraph",
       "text": "Over time, I began to realize that what interested me was not simply the construction of a virtual world, but the creation of a framework capable of holding relations, enabling agency, and remaining open enough to be continuously expanded, reinterpreted, and built upon by others."
     },
     {
       "type": "paragraph",
       "text": "In 2024, I made another publication titled Worlds Unfolding: Ideas and Prompts for Virtual World-Making. I also designed an interactive web-based publication called Matrix of the Not-Yet, an editorial project featuring works from 19 artists. The catalogue was designed as a 3D map that traced visions of worlds-to-come across social, technological, cultural, and ecological realms. Rather than presenting projects as isolated outputs, the publication treated each artistic work as a “matrix.”",
-      "html": "In 2024, I made another publication titled <em>Worlds Unfolding: Ideas and Prompts for Virtual World-Making</em>. I also designed an interactive web-based publication called <em>Matrix of the Not-Yet</em>, an editorial project featuring works from 19 artists. The catalogue was designed as a 3D map that traced visions of worlds-to-come across social, technological, cultural, and ecological realms. Rather than presenting projects as isolated outputs, the publication treated each artistic work as a “matrix.”"
+      "html": "In 2024, I made another publication titled <a href=\"https://uaad.metalabel.com/worlds-unfolding\"><em>Worlds Unfolding: Ideas and Prompts for Virtual World-Making</em></a>. I also designed an interactive web-based publication called <em>Matrix of the Not-Yet</em>, an editorial project featuring works from 19 artists. The catalogue was designed as a 3D map that traced visions of worlds-to-come across social, technological, cultural, and ecological realms. Rather than presenting projects as isolated outputs, the publication treated each artistic work as a “matrix.”"
+    },
+    {
+      "type": "image",
+      "src": "images/stories/26.png",
+      "alt": "",
+      "caption": ""
     },
     {
       "type": "paragraph",
