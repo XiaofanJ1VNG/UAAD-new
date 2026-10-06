@@ -1,5 +1,231 @@
 [
   {
+  "title": "What Kinds of Relations Are We Rehearsing When We Build Worlds Together?",
+  "category": "Essay",
+  "date": "Oct 6, 2026",
+  "publishedAt": "2026-10-06",
+  "read": "12 min read",
+  "slug": "what-kinds-of-relations-are-we-rehearsing-when-we-build-worlds-together",
+  "tags": ["Essay", "Art", "Design", "Tech"],
+  "author": "Amy Xiaofan Jiang",
+  "image": "",
+  "excerpt": "An essay on worldbuilding as a relational practice, exploring situated knowledge, synthetic media, and the infrastructures concealed behind frictionless creation.",
+  "complete": true,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This essay is adapted from a talk I gave on May 30, 2026, as part of the Synthetic Narrative event at DVAA in Narrowsburg, New York.",
+      "html": "<em>This essay is adapted from a talk I gave on May 30, 2026, as part of the Synthetic Narrative event at DVAA in Narrowsburg, New York.</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "My work sits somewhere between immersive storytelling and worldbuilding, experience and participatory design, curation, editorial practice, and public programming. Underneath these different forms is a persistent curiosity: how might we live and coexist otherwise? What other modes of thinking, relating, and making remain possible?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have always been drawn both to imagining new worlds and to building connections between people and ideas. Much of my work exists somewhere between those two impulses: the desire to speculate, and the desire to create conditions from which collective imagination can emerge."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a period, this led me to work primarily within virtual curation and immersive storytelling, often collaborating closely with 3D artists to shape not only the works being presented but also the spatial and experiential structures surrounding them. Over time, however, I became increasingly interested in something that seemed to sit underneath the worlds themselves: the language we use to describe how worlds are made. The vocabulary surrounding immersive media and worldbuilding already reveals certain assumptions about what a world is, how it is constructed, and what we perceive its primary substance to be."
+    },
+    {
+      "type": "heading",
+      "text": "From Objects to Relations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of immersive media and worldbuilding is described through a language of assets: the environment, the lore, the character, the system, the experience. It is an object vocabulary."
+    },
+    {
+      "type": "paragraph",
+      "text": "English, like many European languages, is heavily structured around nouns. We turn the living world into objects that can be named, categorized, used, and arranged. Once something becomes an “it,” an object can appear to make no claim on us. Relation becomes secondary, a connective tissue between already defined entities that often remains invisible or unacknowledged."
+    },
+    {
+      "type": "paragraph",
+      "text": "But what interests me most in this field is precisely the relation itself: the relations between collaborators, between participants and environments, between synthetic systems and human perception, between worlds and the bodies whose attention and actions complete them."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Braiding Sweetgrass, botanist and Potawatomi writer Robin Wall Kimmerer describes a different grammar, what she calls a “grammar of animacy.” Mountains, rivers, trees, bays, sweetgrass, and other entities that English often relegates to inert “its” can instead be understood as living presences with agency.",
+      "html": "In <em>Braiding Sweetgrass</em>, botanist and Potawatomi writer Robin Wall Kimmerer describes a different grammar, what she calls a “grammar of animacy.” Mountains, rivers, trees, bays, sweetgrass, and other entities that English often relegates to inert “its” can instead be understood as living presences with agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kimmerer writes:"
+    },
+    {
+      "type": "quote",
+      "text": "“A bay is a noun only if water is dead. When bay is a noun, it is defined by humans, trapped between its shores and contained by the word. But the verb wiikwegamaa, to be a bay, releases the water from bondage and lets it live. ‘To be a bay’ holds the wonder that, for this moment, the living water has decided to shelter itself between these shores, conversing with cedar roots and a flock of baby mergansers. Because it could do otherwise, become a stream or an ocean or a waterfall, and there are verbs for that, too.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This idea fundamentally reorganized how I think about the worlds I make. So much of my practice takes place inside software, and software has inherited an object-oriented grammar at its core. We create objects. We give them attributes. We define their behaviors. We place them inside environments. The world emerges as an arrangement of discrete things."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question I have been carrying with me is: what would it mean to bring a grammar of animacy, a mindset in which relation, process, and becoming come first, into the building of synthetic worlds?"
+    },
+    {
+      "type": "heading",
+      "text": "The Myth of the Blank World"
+    },
+    {
+      "type": "paragraph",
+      "text": "Open a game engine, a large language model interface, or a node-based AI tool. You encounter the blank XYZ viewport, the empty prompt box, the infinite canvas with its single waiting node."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you place the first object inside that weightless grid, type the first words into the prompt box, or drop the first node onto a canvas extending evenly in every direction, where do you imagine the world that answers you is coming from? Who made that space before you arrived? What relations are already structuring it? What ways of seeing have already been encoded into its architecture? What forms of life, knowledge, or imagination have already been excluded before creation even begins?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The blank slate presents itself as a space with no history, a ground with no prior inhabitants, a world without origin from which anything might be made. In her 1988 essay “Situated Knowledges,” Donna Haraway calls this kind of perspective the “god trick”: a disembodied gaze that claims objectivity precisely by refusing to say where it stands or whose body it looks from."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no neutral, omniscient vantage point. All vision comes from somewhere. All knowledge is partial. And that partiality is not an embarrassing limitation of knowledge, but one of its fundamental conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Synthetic media may be where the god trick has found one of its most convincing technological forms. We can now generate worlds endlessly and on demand, from almost any angle and at almost any scale. Images, environments, language, characters, and narratives arrive polished, productive, and frictionless, seemingly conjured out of nothing."
+    },
+    {
+      "type": "paragraph",
+      "text": "But behind the interface, there is never really nothing. There is a latent space, which is only a flattering name for the compressed statistical shape of everything the model was fed and everything it was never fed, every image scraped and every image absent, every voice overrepresented and every voice missing, the whole uneven world pressed into coordinates that present themselves to us as neutral possibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if we follow that apparent smoothness outward, we encounter everything else it contains. When creation collapses into one-click automation, when AI-generated content floods the media we consume every day, when billions of dollars are poured into AI infrastructure while the people who built, cleaned, labeled, and maintained its underlying systems disappear from view, when data centers draw deeper upon water and energy infrastructures while their environmental costs remain distant from the interfaces through which we encounter them, and when surveillance and capture are embedded into platforms and tools that process our behavior continuously and in real time, we are being severed from the entire ecosystem that synthetic world-making now depends on, from the makers and the labelers to the consumers and stakeholders strung along the whole length of the pipeline, until the only relation left intact is the one between you and the machine, the single frictionless relation that is closing off all the others."
+    },
+    {
+      "type": "heading",
+      "text": "Beyond “Friction”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why I have come to distrust the language of friction, even as I share its instinct. There is a great deal of talk now about reintroducing friction, or “friction by design,” bringing back the struggle and the slowness and the error and the iteration, the emotion and the empathy against the logic and the efficiency, and I understand the longing in it."
+    },
+    {
+      "type": "paragraph",
+      "text": "But friction, to me, is a symptom word. It names the problem through what we feel has disappeared from increasingly frictionless systems, but stops there. What is actually missing underneath the call for friction is an awareness of the relations that constitute these systems, the dense socio-technical web that every smooth surface is built to hide."
+    },
+    {
+      "type": "paragraph",
+      "text": "The real antagonist here is unknowability: the process you cannot see, the conditions that shift while you look away, the labor that has disappeared behind the output, the ecological consequence occurring somewhere distant from the interface, the impact that always seems to take place elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "text": "What would change if, instead of simply making an interaction more difficult, we made its relations more perceptible?"
+    },
+    {
+      "type": "heading",
+      "text": "Worldbuilding as a Relational Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "So I have come to think that curatorial and worldbuilding practices, certain ones, practiced with certain intentions, can be ways of restoring attentiveness to situated relations. I want to be exact, because worldbuilding and curation have swollen into umbrella words that cover almost anything and therefore explain almost nothing. I am speaking only about my own practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "For me, worldbuilding is not simply the production of fictional environments. It is a practice of imagination and agency that spans storytelling, art, systems, technology, and social organization, always entangled with cultural, political, ecological, and technological realities."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2023, I initiated a virtual exhibition on the browser-based platform New Art City titled Alt-Alterity. It was an attempt to provoke a co-imagination of a world where the notion of alterity, the state of being other, is rendered obsolete. Working with 29 artists from 19 countries, we asked what it might mean to engage differently with both the other inhabitants of this planet and with each other as humans.",
+      "html": "In 2023, I initiated a virtual exhibition on the browser-based platform New Art City titled <em>Alt-Alterity</em>. It was an attempt to provoke a co-imagination of a world where the notion of alterity, the state of being other, is rendered obsolete. Working with 29 artists from 19 countries, we asked what it might mean to engage differently with both the other inhabitants of this planet and with each other as humans."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inquiry also extended to the design of the virtual environment itself. The space was not treated as a traditional white box or a neutral container, but as part of the relational structure of the exhibition, shaped through the proximity between works, spatial orientation, scale, navigation, rhythm, atmosphere, and the environments surrounding the works."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exhibition unfolded across three chapters: Unsung Wisdom, Rebel Tech; Ephemeral Cycles, Everlasting Collapses; and Fluid Bodies, Blurred Boundaries. Visitors first entered through a spawning space we called the Anchor Point, an ethereal, sci-fi temple-like architecture that functioned less as a lobby than as a threshold into shifting states of relation.",
+      "html": "The exhibition unfolded across three chapters: <em>Unsung Wisdom, Rebel Tech</em>; <em>Ephemeral Cycles, Everlasting Collapses</em>; and <em>Fluid Bodies, Blurred Boundaries</em>. Visitors first entered through a spawning space we called the Anchor Point, an ethereal, sci-fi temple-like architecture that functioned less as a lobby than as a threshold into shifting states of relation."
+    },
+    {
+      "type": "paragraph",
+      "text": "From there, participants could move through environments including a swamp of ancient trees connected through rhizomatic structures carrying ideas, techniques, and forms of inherited knowledge; a synthetic-organic mycelial landscape evoking ecological collapse and entanglement; and an underground club space where identities, bodies, and boundaries became an unstable multiplicity."
+    },
+    {
+      "type": "paragraph",
+      "text": "I designed the exhibition map as a constellation: a structure that placed each work in visible relation to others, so that each piece was always situated among other works, other histories, other positions, and other ways of sensing and knowing."
+    },
+    {
+      "type": "paragraph",
+      "text": "We also made a publication that offered a deeper investigation into each artist’s intentions and processes. The contributors included not only contemporary artists but also designers and strategists, many of whom merged inquiries in science and art, combining creative experimentation with philosophical exploration. Their practices aimed not only to express artistic visions but also to embody forms of socially and planetarily responsible agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Over time, I began to realize that what interested me was not simply the construction of a virtual world, but the creation of a framework capable of holding relations, enabling agency, and remaining open enough to be continuously expanded, reinterpreted, and built upon by others."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2024, I made another publication titled Worlds Unfolding: Ideas and Prompts for Virtual World-Making. I also designed an interactive web-based publication called Matrix of the Not-Yet, an editorial project featuring works from 19 artists. The catalogue was designed as a 3D map that traced visions of worlds-to-come across social, technological, cultural, and ecological realms. Rather than presenting projects as isolated outputs, the publication treated each artistic work as a “matrix.”",
+      "html": "In 2024, I made another publication titled <em>Worlds Unfolding: Ideas and Prompts for Virtual World-Making</em>. I also designed an interactive web-based publication called <em>Matrix of the Not-Yet</em>, an editorial project featuring works from 19 artists. The catalogue was designed as a 3D map that traced visions of worlds-to-come across social, technological, cultural, and ecological realms. Rather than presenting projects as isolated outputs, the publication treated each artistic work as a “matrix.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The prompts themselves spanned questions of narrative and worldview, environment and entities, navigation and spatial structure, interaction and user experience, artworks and media, accessibility and ethics, as well as collaboration and collective process. I also developed a conceptual graph mapping many of the recurring ideas explored throughout the publication and the interconnections between them. Rather than treating these prompts as instructions or solutions, I approached them more as invitations: openings for reconsidering the assumptions embedded in how we build worlds, as well as in the world we already inhabit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before constructing narratives, consider: who is telling the story?",
+      "html": "Before constructing narratives, consider: <strong>who is telling the story?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What forms of relation does your world encourage, and which does it make difficult or impossible?",
+      "html": "<strong>What forms of relation does your world encourage, and which does it make difficult or impossible?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What cultural, philosophical, political, ecological, or mythological influences shape the default setting of your world?",
+      "html": "<strong>What cultural, philosophical, political, ecological, or mythological influences shape the default setting of your world?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What kinds of bodies, intelligences, temporalities, or ways of being remain visible in your world, and what has been overwritten, erased, or displaced?",
+      "html": "<strong>What kinds of bodies, intelligences, temporalities, or ways of being remain visible in your world, and what has been overwritten, erased, or displaced?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What infrastructures keep your world running, and who maintains them?",
+      "html": "<strong>What infrastructures keep your world running, and who maintains them?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your world is guided by values such as cooperation, reciprocity, or collective care, how do those values manifest spatially, socially, or structurally within the environment itself?",
+      "html": "<strong>If your world is guided by values such as cooperation, reciprocity, or collective care, how do those values manifest spatially, socially, or structurally within the environment itself?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can a world have agency? Can an environment participate in meaning-making rather than merely containing it?",
+      "html": "<strong>Can a world have agency? Can an environment participate in meaning-making rather than merely containing it?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "How might navigation itself become a form of storytelling?",
+      "html": "<strong>How might navigation itself become a form of storytelling?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What systems from the real world does your virtual world reproduce, challenge, or reimagine?",
+      "html": "<strong>What systems from the real world does your virtual world reproduce, challenge, or reimagine?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps the underlying question running through all of them is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What kinds of relations are we rehearsing when we build worlds together?",
+      "html": "<strong>What kinds of relations are we rehearsing when we build worlds together?</strong>"
+    }
+  ]
+},
+  {
     "title": "In Conversation: N/A(Z) on Simulations and Human-Machine Relationships",
     "category": "Art",
     "date": "Jun 9, 2026",
