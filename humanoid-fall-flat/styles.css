@@ -22,3 +22,14 @@
 .vote-count{font-size:32px;font-weight:600;line-height:1.1}
 .votestatus{font-size:11px;color:#aaa;margin:10px 0 0}
 @media(max-width:650px){.board{width:auto}.board[open]{width:195px}.board summary{padding:11px 13px;font-size:9px;gap:12px}.vote-heart{font-size:30px}.vote-count{font-size:29px}}
+
+/* Match the original compact vote pill; prevent header flex stretch. */
+header{align-items:flex-start}
+.board{align-self:flex-start;height:fit-content;min-height:0}
+.board:not([open]){height:auto;max-height:none;overflow:hidden}
+.board:not([open])>.board-content{display:none}
+.board:not([open])>summary{margin:0}
+.vote{min-width:0;min-height:0;height:40px;gap:8px;padding:11px 20px;font-size:12px;line-height:18px}
+.vote .vote-heart{display:block;flex:0 0 18px;width:18px;height:18px;font-size:inherit;line-height:normal}
+.vote .vote-count{font-size:14px;font-weight:600;line-height:18px}
+.votestatus{font-size:10px;margin-top:8px}
