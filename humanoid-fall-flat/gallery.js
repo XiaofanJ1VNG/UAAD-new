@@ -1,5 +1,5 @@
 'use strict';
-const CATEGORIES=['Robotic Failures','Failure-Inspired Art'];
+const CATEGORIES=['Robotic Failures','Artistic Responses'];
 const DEMO=new URLSearchParams(location.search).has('demo');
 const LOCAL_PREVIEW=new URLSearchParams(location.search).get('local')==='1';
 const PREFIX='hff-local-v1'+(DEMO?'-demo':'');
@@ -23,7 +23,7 @@ function layout(items,kind,width,height=900,pan={x:0,y:0},scale=1){
  const cells=[];const mod=(v,n)=>((v%n)+n)%n;
  for(let ty=Math.floor(top/span);ty<=Math.floor(bottom/span);ty++)for(let tx=Math.floor(left/span);tx<=Math.floor(right/span);tx++){
   pattern.forEach(([cx,cy,cw,ch],slot)=>{
-   if(kind==='Failure-Inspired Art')[cx,cy,cw,ch]=[cy,cx,ch,cw];
+   if(kind==='Artistic Responses')[cx,cy,cw,ch]=[cy,cx,ch,cw];
    const x=tx*span+cx*unit+gap/2,y=ty*span+cy*unit+gap/2,w=cw*unit-gap,h=ch*unit-gap;
    if(x+w<left||x>right||y+h<top||y>bottom)return;
    const index=mod((tx+ty*7)*pattern.length+slot+(kind==='Robotic Failures'?3:0),items.length);
@@ -121,7 +121,7 @@ function setupDetailEditor(work){
  $('#detailEditor')?.remove();
  if(!HFFAuth.isSignedIn())return;
  const section=document.createElement('section');section.id='detailEditor';section.className='detail-editor';
- section.innerHTML='<button type="button" class="pill" data-edit>Edit work</button><form hidden><label>Category<select name="category" style="display:block;width:100%;margin-top:7px;padding:11px;background:#222;border:1px solid #555;border-radius:4px;color:#eee;font:inherit"><option>Robotic Failures</option><option>Failure-Inspired Art</option></select></label><label>Title<input name="title" maxlength="180"></label><label>Description<textarea name="description" maxlength="6000"></textarea></label><label>Tags<input name="tags" maxlength="500" list="detailTagOptions" placeholder="Separate tags with commas"></label><datalist id="detailTagOptions"></datalist><div class="actions"><button class="pill active" type="submit">Save changes</button><button class="pill" type="button" data-cancel>Cancel</button><button class="pill" type="button" data-download>Download works.json</button></div><p class="note" role="status"></p></form>';
+ section.innerHTML='<button type="button" class="pill" data-edit>Edit work</button><form hidden><label>Category<select name="category" style="display:block;width:100%;margin-top:7px;padding:11px;background:#222;border:1px solid #555;border-radius:4px;color:#eee;font:inherit"><option>Robotic Failures</option><option>Artistic Responses</option></select></label><label>Title<input name="title" maxlength="180"></label><label>Description<textarea name="description" maxlength="6000"></textarea></label><label>Tags<input name="tags" maxlength="500" list="detailTagOptions" placeholder="Separate tags with commas"></label><datalist id="detailTagOptions"></datalist><div class="actions"><button class="pill active" type="submit">Save changes</button><button class="pill" type="button" data-cancel>Cancel</button><button class="pill" type="button" data-download>Download works.json</button></div><p class="note" role="status"></p></form>';
  $('#description').after(section);
  const form=section.querySelector('form'), edit=section.querySelector('[data-edit]'), status=section.querySelector('[role=status]');
  const fill=()=>{for(const key of ['category','title','description','tags'])form.elements.namedItem(key).value=work[key]||''};

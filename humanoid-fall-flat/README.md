@@ -16,14 +16,14 @@ No files have been published. This package replaces the earlier Cloudflare-based
 
 ## Add works without code
 
-Click **Manage archive** at the top left to open the separate `admin.html` page. Choose or drop an image, video or audio file, then select a category and tags. Title and description are optional. Blank titles default to the filename. Artist name and URL appear for Failure-Inspired Art; Source URL and credit appear for Robotic Failures. Add an optional cover and save. Click Save work. File uploads persist in browser file storage on this computer. Very large uploads can hit browser storage limits. The source files on your disk are not moved or modified. Edit entries, Hide/Show them, or Delete them using the Works list. Hidden works retain their votes and are excluded from the gallery and leaderboard. Changes are reflected in another open gallery tab on the same localhost address.
+Click **Manage archive** at the top left to open the separate `admin.html` page. Choose or drop an image, video or audio file, then select a category and tags. Title and description are optional. Blank titles default to the filename. Artist name and URL appear for Artistic Responses; Source URL and credit appear for Robotic Failures. Add an optional cover and save. Click Save work. File uploads persist in browser file storage on this computer. Very large uploads can hit browser storage limits. The source files on your disk are not moved or modified. Edit entries, Hide/Show them, or Delete them using the Works list. Hidden works retain their votes and are excluded from the gallery and leaderboard. Changes are reflected in another open gallery tab on the same localhost address.
 
 The manager is not password protected because this is a single-computer local tool. If you later publish this version, everyone will have their own local content and vote counts. It is not a public shared poll.
 
 Choose exactly one category:
 
 - Robotic Failures
-- Failure-Inspired Art
+- Artistic Responses
 
 You can also place files in `media/` and enter a relative path like `media/artist-title.mp4`. Direct URLs work too. YouTube watch links, youtu.be links and numeric Vimeo links embed in the work view; they need internet. SoundCloud/Bandcamp page links are not automatically embedded. For offline use, use uploaded files or files in `media/`, in browser-playable formats. MP4/H.264 and MP3 are practical choices, but playback depends on your browser and codec.
 
@@ -37,7 +37,7 @@ You can also place files in `media/` and enter a relative path like `media/artis
     "id": "artist-work-title",
     "title": "Work title",
     "artist": "Artist name",
-    "category": "Failure-Inspired Art",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/artist-work-title.mp4",
     "cover": "media/artist-work-title-cover.jpg",

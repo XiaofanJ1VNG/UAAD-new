@@ -13,7 +13,7 @@ TYPES = {
     **dict.fromkeys(('.mp4', '.webm', '.mov', '.m4v', '.ogv'), 'Video'),
     **dict.fromkeys(('.mp3', '.wav', '.ogg', '.m4a', '.aac', '.flac'), 'Sound'),
 }
-CATEGORIES = {'robotic-failures': 'Robotic Failures', 'failure-inspired-art': 'Failure-Inspired Art'}
+CATEGORIES = {'robotic-failures': 'Robotic Failures', 'failure-inspired-art': 'Artistic Responses'}
 TAGS = {'failure-in-life': 'Failure in Life', 'failure-in-olympics': 'Failure in Olympics',
         'failure-on-stage': 'Failure on Stage'}
 ASSET_FOLDERS = {'covers', 'thumbnails', 'previews'}
