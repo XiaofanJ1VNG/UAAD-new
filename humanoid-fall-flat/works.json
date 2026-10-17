@@ -734,5 +734,37 @@
     "description": "",
     "fileName": "humanoid_fail.mp4",
     "hidden": false
+  },
+  {
+    "id": "media-50e5ad000565591bade67096737e9e04",
+    "title": "The Blind Robot",
+    "artist": "",
+    "category": "Robotic Failures",
+    "type": "Video",
+    "src": "media/The%20Blind%20Robot.mp4",
+    "cover": "",
+    "artistUrl": "",
+    "sourceUrl": "",
+    "sourceCredit": "",
+    "tags": "",
+    "description": "",
+    "fileName": "The Blind Robot.mp4",
+    "hidden": false
+  },
+  {
+    "id": "media-75a6228f188f53a193c0e563e747999a",
+    "title": "The First Catastrophe of the 21st Century",
+    "artist": "",
+    "category": "Robotic Failures",
+    "type": "Image",
+    "src": "media/The%20First%20Catastrophe%20of%20the%2021st%20Century.jpg",
+    "cover": "",
+    "artistUrl": "",
+    "sourceUrl": "",
+    "sourceCredit": "",
+    "tags": "",
+    "description": "",
+    "fileName": "The First Catastrophe of the 21st Century.jpg",
+    "hidden": false
   }
 ]
