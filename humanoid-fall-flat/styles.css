@@ -42,3 +42,17 @@ header{align-items:flex-start}
 .intro{pointer-events:none;text-shadow:none}
 header{background:none;padding-bottom:27px}
 .toolbar .pill{backdrop-filter:blur(12px)}
+
+/* Signed-in editing controls; gallery layout is unchanged. */
+[hidden]{display:none!important}
+#signin,#logout{margin-left:14px}
+.signin-dialog{width:min(360px,calc(100vw - 32px))}
+.signin-dialog h2{margin-top:0}
+.signin-dialog label,.detail-editor label{display:block;font-size:11px;color:#aaa;margin:14px 0 7px}
+.signin-dialog input,.detail-editor input,.detail-editor textarea{display:block;width:100%;margin-top:7px;padding:11px;background:#222;border:1px solid #555;border-radius:4px;color:#eee;font:inherit}
+.signin-dialog .actions,.detail-editor .actions{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 8px}
+.signin-error{font-size:12px;color:#ffb5b5}
+.detail-editor{border-top:1px solid #333;margin-top:20px;padding-top:14px}
+.detail-editor textarea{min-height:100px;resize:vertical}
+
+.admin-page.auth-locked > :not(.signin-dialog){visibility:hidden}
