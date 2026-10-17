@@ -33,3 +33,12 @@ header{align-items:flex-start}
 .vote .vote-heart{display:block;flex:0 0 18px;width:18px;height:18px;font-size:inherit;line-height:normal}
 .vote .vote-count{font-size:14px;font-weight:600;line-height:18px}
 .votestatus{font-size:10px;margin-top:8px}
+
+/* Spacious floating works; the circular layout retains the black canvas. */
+.world>.card{transition:opacity .2s;overflow:visible;border-radius:0;background:transparent}
+.world>.card .cover{width:100%;height:100%;object-fit:contain;display:block;background:transparent}
+.world>.card:hover .cover{transform:translateY(-3px);outline:none;filter:brightness(1.06)}
+.world>.card:focus-visible{outline:2px solid #dbff72;outline-offset:5px}
+.intro{pointer-events:none;text-shadow:none}
+header{background:none;padding-bottom:27px}
+.toolbar .pill{backdrop-filter:blur(12px)}
