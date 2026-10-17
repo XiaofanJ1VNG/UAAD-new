@@ -13,7 +13,8 @@
     "tags": "Failure in Life",
     "description": "",
     "fileName": "Compilation.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-i-like-how-they-just-freak-out",
@@ -29,7 +30,8 @@
     "tags": "Failure in Life",
     "description": "",
     "fileName": "I like how they just freak out.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-stand-up-rise-up",
@@ -45,7 +47,8 @@
     "tags": "Failure in Life",
     "description": "",
     "fileName": "Stand up rise up.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-this-robot-will-not-take-your-job",
@@ -61,7 +64,8 @@
     "tags": "Failure in Life",
     "description": "",
     "fileName": "This robot will not take your job.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-boom",
@@ -77,7 +81,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Boom.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-football-1",
@@ -93,7 +98,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Football 1.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-football-2",
@@ -109,7 +115,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Football 2.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-goofy-running",
@@ -125,7 +132,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "goofy running.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-he-just-can-t-give-up",
@@ -141,7 +149,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "He just can't give up.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-knock-yourself-out",
@@ -157,7 +166,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Knock yourself out.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-losing-balance",
@@ -173,7 +183,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Losing Balance.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-olympics-compilation",
@@ -189,7 +200,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Olympics Compilation.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-slapped-in-the-face",
@@ -205,7 +217,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Slapped in the face.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-the-leap",
@@ -221,7 +234,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "The leap.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-tug-of-war",
@@ -237,7 +251,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Tug of War.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-uh-oh",
@@ -253,7 +268,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Uh-Oh.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-unstoppable",
@@ -269,7 +285,8 @@
     "tags": "Failure in Olympics",
     "description": "",
     "fileName": "Unstoppable.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-dying-mid-presentation",
@@ -285,7 +302,8 @@
     "tags": "Failure on Stage",
     "description": "",
     "fileName": "Dying Mid-Presentation.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-failed-to-climb-stairs",
@@ -301,7 +319,8 @@
     "tags": "Failure on Stage",
     "description": "",
     "fileName": "Failed to climb stairs.gif",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "robotic-failure-michael",
@@ -317,7 +336,8 @@
     "tags": "Failure on Stage",
     "description": "",
     "fileName": "Michael.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-f83dad98bfa8589b85c8007f39f406b9",
@@ -333,7 +353,8 @@
     "tags": "",
     "description": "",
     "fileName": "AI is taking your job but couldn't handle a quarter pipe.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-daf42f681b4254d8b1e2ff69850b76c6",
@@ -349,7 +370,8 @@
     "tags": "",
     "description": "",
     "fileName": "From Pure Grace to Sudden Death.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-20a212593c725bb89c2c6052d921d85f",
@@ -365,7 +387,8 @@
     "tags": "",
     "description": "",
     "fileName": "He's coming at ya.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-172fc66cac9b57c1942cd054450ea800",
@@ -381,7 +404,8 @@
     "tags": "",
     "description": "",
     "fileName": "I am tired of working for humans..mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-c9444aa1ba1e5f87903c41e208fd77fa",
@@ -397,7 +421,8 @@
     "tags": "",
     "description": "",
     "fileName": "I am tired of working for humans2.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-a5247b90c63f5ca493e5018b8a799eba",
@@ -413,7 +438,8 @@
     "tags": "",
     "description": "",
     "fileName": "Passed out on the start line.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-7f1c1870238e5e6287654eb03f992197",
@@ -429,7 +455,8 @@
     "tags": "",
     "description": "",
     "fileName": "Robot fighting went wrong fast.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-905e2f375220579d9860b4e1f86ef293",
@@ -445,7 +472,8 @@
     "tags": "",
     "description": "",
     "fileName": "The cheerleader robot had other plans..mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-e2abd9745d6e5b5aa7c05ce29d596008",
@@ -461,7 +489,8 @@
     "tags": "",
     "description": "",
     "fileName": "crashing into door.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-df1328b10218546cbcf2fcc45c780de7",
@@ -477,7 +506,8 @@
     "tags": "",
     "description": "",
     "fileName": "At the intersection of tech and horror.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-10951c1b18cf5eec9ac5c78c2678cb56",
@@ -493,7 +523,8 @@
     "tags": "",
     "description": "",
     "fileName": "Can't seem to find my opponent.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-751f3a10f9695ce2bac457fcce761855",
@@ -509,7 +540,8 @@
     "tags": "",
     "description": "",
     "fileName": "Delivery Robot Drove off Cliff.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-b2b29f942dda59a68f8e4b25e13cdea4",
@@ -522,10 +554,11 @@
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "Failure in Life",
+    "description": "A humanoid robot cutting a cucumber with a knife. 🤖🔪It looks like a simple task, but a lot is happening under the surface....",
     "fileName": "First time using a knife I'm kinda nervous.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-451713f54e965a48aabd20f8815f3cc7",
@@ -541,7 +574,8 @@
     "tags": "",
     "description": "",
     "fileName": "Kicking Employees.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-e323cc1c82f95dcd913acaf1f9bc5082",
@@ -557,7 +591,8 @@
     "tags": "",
     "description": "",
     "fileName": "Robot Arm Fails.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-73c0a72db0905020a84318b25ba1bada",
@@ -573,11 +608,12 @@
     "tags": "",
     "description": "",
     "fileName": "Robot runway fail.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-96e2a20bd54a5f80b49c67cced4e4459",
-    "title": "Sir I told you to water over there",
+    "title": "This Robot Lawncare Service SUCKS",
     "artist": "",
     "category": "Robotic Failures",
     "type": "Video",
@@ -586,10 +622,11 @@
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
+    "tags": "Failure in Life",
     "description": "",
     "fileName": "Sir I told you to water over there.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-bd1cabfb162a51098ac7c25943f27ede",
@@ -605,7 +642,8 @@
     "tags": "",
     "description": "",
     "fileName": "TV Unmounting.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-f253bc3083385dcd9df634f425655173",
@@ -621,11 +659,12 @@
     "tags": "",
     "description": "",
     "fileName": "Too much Vodka.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-01136af98d395f12bf97cc4ea5c7ce8a",
-    "title": "annihilation",
+    "title": "Retired robots trained to jump to their \"death\" in molten steel",
     "artist": "",
     "category": "Robotic Failures",
     "type": "Video",
@@ -635,25 +674,27 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "A video going around shows humanoid robots flinging themselves into molten steel.\n\nIt's actually real.\n\nCalifornia robotics company Figure AI wanted to retire its decommissioned robots in style.\n\nSo it trained the robots to jump off ledges and then sent them to a steel plant in Finland for a Terminator-style send-off.\n\nA camera crew captured the fiery farewells and created a stunning sizzle reel.\n\nArnold Schwarzenegger, who helped come up with the idea, even makes a cameo in the video re-creating the iconic ending of Terminator 2.",
     "fileName": "annihilation.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-061383eec21b5a248312c169597d89eb",
     "title": "Can’t Help Myself by Sun Yuan and Peng Yu",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/Can%E2%80%99t%20Help%20Myself%20by%20Sun%20Yuan%20and%20Peng%20Yu.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "2016",
+    "description": "In this work commissioned for the Guggenheim Museum, Sun Yuan & Peng Yu employ an industrial robot, visual-recognition sensors, and software systems to examine our increasingly automated global reality, one in which territories are controlled mechanically and the relationship between people and machines is rapidly changing. Placed behind clear acrylic walls, their robot has one specific duty, to contain a viscous, deep-red liquid within a predetermined area. When the sensors detect that the fluid has strayed too far, the arm frenetically shovels it back into place, leaving smudges on the ground and splashes on the surrounding walls.\n\nThe idea to use a robot came from the artists’ initial wish to test what could possibly replace an artist’s will in making a work and how could they do so with a machine. They modified a robotic arm, one often seen on production lines such as those in car manufacturing, by installing a custom-designed shovel to its front. Collaborating with two robotics engineers, Sun Yuan & Peng Yu designed a series of thirty-two movements for machine to perform. Their names for these movements, such as “scratch an itch,” “bow and shake,” and “ass shake,” reflect the artists’ intention to animate a machine. Observed from the cage-like acrylic partitions that isolate it in the gallery space, the machine seems to acquire consciousness and metamorphose into a life-form that has been captured and confined in the space. At the same time, for viewers the potentially eerie satisfaction of watching the robot’s continuous action elicits a sense of voyeurism and excitement, as opposed to thrills or suspense. In this case, who is more vulnerable: the human who built the machine or the machine who is controlled by a human?\nSource: mae.community",
     "fileName": "Can’t Help Myself by Sun Yuan and Peng Yu.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-0980b41996e35e3c9c47e10dfa646437",
@@ -669,39 +710,42 @@
     "tags": "",
     "description": "",
     "fileName": "Even robots need a break.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-40009625de4c5ea58d328c0f458d2678",
-    "title": "I'm tired of cleaning your mess trailer",
+    "title": "I’m Tired of Cleaning Your Mess by Michelle Wu",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/I%27m%20tired%20of%20cleaning%20your%20mess%20trailer.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "2024",
+    "description": "With the advancement of technology, we are not only seeing an increasing presence of automation in our daily lives, but also often told that automation guarantees success on every single execution. However, my experience disagrees. The pattern that I have observed with automation is that yes, it might work perfectly for a bit, but it inevitably fails at some point. And human intervention is always required to clean up such failures and redo its job.\n\n“I’m Tired of Cleaning Your Mess” is a human-robotic arm performance that explores my frustration with automation. The storyline can be divided into three acts, where each act features a few successful executions of scooping rice from a pot to a bowl, followed by its own unique failure. While after the first two failures, I go up stage, clean up its mess, and restart the process, by the third time, I become fed up with the pattern. Instead, I shut off the machine, manually execute the task myself, and walk off stage.",
     "fileName": "I'm tired of cleaning your mess trailer.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-c12bc8b8aa27520d81048b417b302666",
     "title": "Shiva Viswanathan",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/Shiva%20Viswanathan.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
+    "tags": "2026",
     "description": "",
     "fileName": "Shiva Viswanathan.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-d75726881e1553108ac5526313adda07",
@@ -717,61 +761,65 @@
     "tags": "",
     "description": "",
     "fileName": "all that engineering goes into violence.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-bc5e7e9078e3575ca84235ab972de1fd",
-    "title": "humanoid_fail",
+    "title": "Shiva Viswanathan + Jack Tipper",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/humanoid_fail.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "2026",
+    "description": "Animation for oscillioscope",
     "fileName": "humanoid_fail.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-50e5ad000565591bade67096737e9e04",
-    "title": "The Blind Robot",
+    "title": "The BLIND ROBOT by Louis-Philippe Demers",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/The%20Blind%20Robot.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "2012",
+    "description": "The Blind Robot comprises of a typical robotic arm equipped with an articulated hand. In this installation, visitors will be invited to sit in the front of this machine and engage into a nonverbal dialogue with this machine. The robot will delicately explore the body – mostly the face - of the visitor in a manner that recalls what the blind humans are doing to recognize a person or an object. On a nearby screen or projection, the machine will then produce a visual rendering of what its fingertips have “seen”. Thru the artistic installation of The Blind Robot, the aim of this project is to further understand the degrees of engagement, would it be either intellectual, emotional or physical, that are generated when a Social Robot intimately touches a person. Artists’ hypothesis is that the social role (a blind) will augment the act of touching via the potential of the created emotional connection between the human visitor and the robot. The Blind Robot becomes an artistic and critical investigation of the scientific developments in Social Robotics.\n\n",
     "fileName": "The Blind Robot.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-75a6228f188f53a193c0e563e747999a",
-    "title": "The First Catastrophe of the 21st Century",
+    "title": "The First Catastrophe of the 21st Century by Nam June Paik",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/The%20First%20Catastrophe%20of%20the%2021st%20Century.jpg",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "1982",
+    "description": "Robot K-456 (built by Nam June Paik and Shuya Abe in 1964), out of the Whitney museum and onto the intersection of 75th Street and Madison Avenue. As it attempted to cross the intersection, a car driven by fellow artist Bill Anastasi intentionally struck the robot in a staged traffic accident. After the “collision”, K-456 was returned to its pedestal in the Museum. \n\nPaik referred to the collision as \"the first catastrophe of the 21st century,\" using the fragile, clumsy machine to comment on human vulnerability, the unpredictable chaos of technology, and the life-and-death realities of mechanized society. \n\nSourece: https://cyberneticzoo.com/robots-in-art/1964-robot-k-456-nam-june-paik-korean-shuya-abe-japanese/",
     "fileName": "The First Catastrophe of the 21st Century.jpg",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-3935d15e179854cbbdfd6b623e2ee2ba",
     "title": "Drawing Operations by Sougwen Chung",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/Drawing%20Operations%20by%20Sougwen%20Chung.jpg",
     "cover": "",
@@ -779,15 +827,16 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "Sougwen Chung and her Drawing Operations Unit: Generation 1, (D.O.U.G._1) explore mimicry and procedural mark-making as a simple drawing performance between a human and mechanical agent. Alongside developer Yotam Mann, the behavior of the robotic arm was designed to mimic the drawn gesture in real time through the use of a ceiling-mounted camera and computer vision. As D.O.U.G., the robotic arm, interprets the mark of the drawing collaborator, the human agent then responds in kind, resulting in a synchronous, interpretive performance.\n\nDrawing Operations is the first stage of an ongoing study examining human and robotic interaction as an artistic collaboration. Further stages include will examine memory, autonomy, and agency.",
     "fileName": "Drawing Operations by Sougwen Chung.jpg",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-abba708b98d95186a0068dc71db6bb97",
     "title": "Hamster on iPhone with Autorotate by Shashwath Santosh and Krithi Nalla",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/Hamster%20on%20iPhone%20with%20Autorotate%20by%20Shashwath%20Santosh%20and%20Krithi%20Nalla.mp4",
     "cover": "",
@@ -797,13 +846,14 @@
     "tags": "",
     "description": "",
     "fileName": "Hamster on iPhone with Autorotate by Shashwath Santosh and Krithi Nalla.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-5761144d182b5c5a998aeda062d1adec",
-    "title": "Rice Robot by Michelle Wu_1",
+    "title": "Rice Robot in \"I’m Tired of Cleaning Your Mess\" by Michelle Wu",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/Rice%20Robot%20by%20Michelle%20Wu_1.jpg",
     "cover": "",
@@ -811,15 +861,16 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "With the advancement of technology, we are not only seeing an increasing presence of automation in our daily lives, but also often told that automation guarantees success on every single execution. However, my experience disagrees. The pattern that I have observed with automation is that yes, it might work perfectly for a bit, but it inevitably fails at some point. And human intervention is always required to clean up such failures and redo its job. “I’m Tired of Cleaning Your Mess” is a human-robotic arm performance that explores my frustration with automation. The storyline can be divided into three acts, where each act features a few successful executions of scooping rice from a pot to a bowl, followed by its own unique failure. While after the first two failures, I go up stage, clean up its mess, and restart the process, by the third time, I become fed up with the pattern. Instead, I shut off the machine, manually execute the task myself, and walk off stage.",
     "fileName": "Rice Robot by Michelle Wu_1.jpg",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-515de3ddc69c5fedb145023a844920b4",
-    "title": "Rice Robot by Michelle Wu_2",
+    "title": "Rice Robot in \"I’m Tired of Cleaning Your Mess\" by Michelle Wu",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/Rice%20Robot%20by%20Michelle%20Wu_2.jpg",
     "cover": "",
@@ -827,15 +878,16 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "With the advancement of technology, we are not only seeing an increasing presence of automation in our daily lives, but also often told that automation guarantees success on every single execution. However, my experience disagrees. The pattern that I have observed with automation is that yes, it might work perfectly for a bit, but it inevitably fails at some point. And human intervention is always required to clean up such failures and redo its job. “I’m Tired of Cleaning Your Mess” is a human-robotic arm performance that explores my frustration with automation. The storyline can be divided into three acts, where each act features a few successful executions of scooping rice from a pot to a bowl, followed by its own unique failure. While after the first two failures, I go up stage, clean up its mess, and restart the process, by the third time, I become fed up with the pattern. Instead, I shut off the machine, manually execute the task myself, and walk off stage.",
     "fileName": "Rice Robot by Michelle Wu_2.jpg",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-c72a487b2fb555f18fb9ae2a3ab6198a",
     "title": "Robot K-456 by Nam June Paik",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/Robot%20K-456%20by%20Nam%20June%20Paik.webp",
     "cover": "",
@@ -843,15 +895,16 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "″Robot K-456″ (1964/1996) by Nam June Paik takes its first steps in decades outside the Nam June Paik Art Center in Yongin, Gyeonggi, on Jan. 27. Media artist Kwon Byung-jun is shown on the left.\nCredit: KWON KEUN-YOUNG",
     "fileName": "Robot K-456 by Nam June Paik.webp",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-96515c338418582381dd3e7734c5b7bb",
-    "title": "sougwen-15_doug1",
+    "title": "Drawing Operations Unit: Generation 1 by Sougwen Chung",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/sougwen-15_doug1.gif",
     "cover": "",
@@ -859,15 +912,16 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "Sougwen Chung and her Drawing Operations Unit: Generation 1, (D.O.U.G._1) explore mimicry and procedural mark-making as a simple drawing performance between a human and mechanical agent. Alongside developer Yotam Mann, the behavior of the robotic arm was designed to mimic the drawn gesture in real time through the use of a ceiling-mounted camera and computer vision. As D.O.U.G., the robotic arm, interprets the mark of the drawing collaborator, the human agent then responds in kind, resulting in a synchronous, interpretive performance.\n\nDrawing Operations is the first stage of an ongoing study examining human and robotic interaction as an artistic collaboration. Further stages include will examine memory, autonomy, and agency.",
     "fileName": "sougwen-15_doug1.gif",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-fb5f2910e52058ec87169123fd305f8b",
-    "title": "sougwen-15_doug2",
+    "title": "Drawing Operations Unit: Generation 1 by Sougwen Chung",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Image",
     "src": "media/sougwen-15_doug2.gif",
     "cover": "",
@@ -875,9 +929,10 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "Sougwen Chung and her Drawing Operations Unit: Generation 1, (D.O.U.G._1) explore mimicry and procedural mark-making as a simple drawing performance between a human and mechanical agent. Alongside developer Yotam Mann, the behavior of the robotic arm was designed to mimic the drawn gesture in real time through the use of a ceiling-mounted camera and computer vision. As D.O.U.G., the robotic arm, interprets the mark of the drawing collaborator, the human agent then responds in kind, resulting in a synchronous, interpretive performance.\n\nDrawing Operations is the first stage of an ongoing study examining human and robotic interaction as an artistic collaboration. Further stages include will examine memory, autonomy, and agency.",
     "fileName": "sougwen-15_doug2.gif",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-26f4ff482a505a56baf20572e0868ea4",
@@ -893,7 +948,8 @@
     "tags": "",
     "description": "",
     "fileName": "\"Neo Can't Do Shit\" by Ronny Cheng.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-a3281222bc3c500a9fcefc168ede56ea",
@@ -909,7 +965,8 @@
     "tags": "",
     "description": "",
     "fileName": "Humanoid robot The story of Sophia - South China Morning Post.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-221ab77a1d055e4fb543e497303a20da",
@@ -925,11 +982,12 @@
     "tags": "",
     "description": "",
     "fileName": "Neo the home robot.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-b5aec63701e6555982646e1cd34a563a",
-    "title": "Robots of Waseda_WABOT-1",
+    "title": "Robots of Waseda: WABOT-1",
     "artist": "",
     "category": "Robotic Failures",
     "type": "Video",
@@ -939,40 +997,26 @@
     "sourceUrl": "",
     "sourceCredit": "",
     "tags": "",
-    "description": "",
+    "description": "Completed in 1973 at Waseda, WABOT-1 is widely considered the world’s first full-scale humanoid robot. It could walk on two legs, grasp objects with its hands, and even communicate in simple Japanese, which was groundbreaking at the time. Developed under the leadership of the late Professor Ichiro Kato, WABOT-1 proved that robots could imitate basic human movements and senses. Researchers even compared its abilities to those of a 1 ½ year old child! This early success helped jump-start modern humanoid robotics research and influenced many later robots. Source: https://www.youtube.com/watch?v=n0oL1sHAKwE",
     "fileName": "Robots of Waseda_WABOT-1.mp4",
-    "hidden": false
-  },
-  {
-    "id": "media-e8ee923ec90d552585ee1586ecdce77d",
-    "title": "WABOT-1_First Humanoid Robot Ever",
-    "artist": "",
-    "category": "Robotic Failures",
-    "type": "Image",
-    "src": "media/WABOT-1_First%20Humanoid%20Robot%20Ever.jpg",
-    "cover": "",
-    "artistUrl": "",
-    "sourceUrl": "",
-    "sourceCredit": "",
-    "tags": "",
-    "description": "",
-    "fileName": "WABOT-1_First Humanoid Robot Ever.jpg",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   },
   {
     "id": "media-46627dbe49855e3583e4d135d2892db6",
     "title": "WhatIsLoveQuestionMark by Ruiming Liang",
     "artist": "",
-    "category": "Robotic Failures",
+    "category": "Artistic Responses",
     "type": "Video",
     "src": "media/WhatIsLoveQuestionMark%20by%20Ruiming%20Liang.mp4",
     "cover": "",
     "artistUrl": "",
     "sourceUrl": "",
     "sourceCredit": "",
-    "tags": "",
-    "description": "",
+    "tags": "2026",
+    "description": "WhatIsLoveQuestionMark lets a machine execute, in the only language it knows — rotate, stop, repeat — the most elementary unit of human connection: touch, like the gap between God's and Adam's fingertips on the Sistine ceiling. The work strips all context away: no palms, no bodies, just two silicone fingers on exposed servo motors. Repetition magnifies the physics of contact itself. The machine serves as a foil: the artist asks what human \"love\" actually is. ",
     "fileName": "WhatIsLoveQuestionMark by Ruiming Liang.mp4",
-    "hidden": false
+    "hidden": false,
+    "featured": false
   }
 ]
