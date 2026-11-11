@@ -1,5 +1,159 @@
 [
-  {
+ {
+  "title": "The Substrate of Extraction",
+  "slug": "the-substrate-of-extraction",
+  "date": "Oct 23–24, 2026",
+  "year": "2026",
+  "venue": "MESH_ARTS, The Old American Can Factory, Brooklyn",
+  "tags": ["Exhibition", "Performance", "Talk"],
+  "section": "IRL",
+  "showOnHome": true,
+  "url": "https://luma.com/v77g2ygo",
+  "description": "Presented by UAAD and MESH_ARTS, a group exhibition exploring biological systems, industrial materials, and ecological transformation through sculpture, scent, moving image, and computational media.",
+  "introduction": "Underground Art And Design (UAAD) and MESH_ARTS present The Substrate of Extraction, a group exhibition bringing together artists whose practices engage biological systems, industrial materials, and ecological transformation to consider how matter carries the traces of what has been removed, transformed, circulated, or discarded.\n\nWhat can a cell reveal about ownership? What can a microorganism transmit across generations and borders? What histories remain in a grain of sand, a fragment of plastic, or the shell of a dead barnacle?\n\nSpanning biotechnology, traditional craft, sculpture, scent, moving image, and computational media, the works turn to materials and processes that often remain beneath the threshold of human attention. Cells divide, mold spreads, mealworms digest, plastics circulate, scents diffuse, and biological remains acquire digital afterlives. Yet histories of industrial production, resource extraction, ecological transformation, and unequal exchange have always been embedded within matter itself.\n\nA substrate is the matter upon which something grows, acts, or leaves a trace. In this exhibition, it is both what extraction operates upon and the ground through which extraction reveals itself. Through dialogue across cultures and disciplines, The Substrate of Extraction asks what structures become visible when we attend to their smallest traces.\n\nCurated by Amy Xiaofan Jiang.\n\nOctober 23: Gallery opens at 11:00 AM; curator-led exhibition tour at 7:30 PM; a 15-minute performance by William Takao Eliot at 8:00 PM; reception and mingle at 8:30 PM; event ends at 9:00 PM.\n\nOctober 24: Artist talks and Q&A at 2:00 PM, featuring 10-minute presentations by Lisa Marina Komiya, Tsuyoshi Anzai, Shahira Hammad, and William Takao Eliot, followed by an audience Q&A.\n\nSupported by the Agency for Cultural Affairs, Government of Japan; Japan Arts Council; CG-ARTS; WAN: Art & Tech Creators Global Network; and Japan Creator Support Fund.",
+  "role": "Co-presenter and curator",
+  "cover": {
+    "src": "images/substrate/gallery/01.webp",
+    "alt": "The Substrate of Extraction exhibition"
+  },
+  "artists": [
+    {
+      "name": "Lisa Marina Komiya",
+      "headshot": "images/substrate/headshot/Marina.jpg",
+      "piece": ""
+    },
+    {
+      "name": "Tsuyoshi Anzai",
+      "headshot": "images/substrate/headshot/Tsuyoshi.jpeg",
+      "piece": ""
+    },
+    {
+      "name": "Shahira Hammad",
+      "headshot": "images/substrate/headshot/Shahira.jpeg",
+      "piece": ""
+    },
+    {
+      "name": "William Takao Eliot",
+      "headshot": "images/substrate/headshot/Will.webp",
+      "piece": ""
+    },
+    {
+      "name": "Yan Shao",
+      "headshot": "images/substrate/headshot/yan.jpg",
+      "piece": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "images/substrate/gallery/01.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 1"
+    },
+    {
+      "src": "images/substrate/gallery/02.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 2"
+    },
+    {
+      "src": "images/substrate/gallery/03.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 3"
+    },
+    {
+      "src": "images/substrate/gallery/04.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 4"
+    },
+    {
+      "src": "images/substrate/gallery/05.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 5"
+    },
+    {
+      "src": "images/substrate/gallery/06.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 6"
+    },
+    {
+      "src": "images/substrate/gallery/07.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 7"
+    },
+    {
+      "src": "images/substrate/gallery/08.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 8"
+    },
+    {
+      "src": "images/substrate/gallery/09.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 9"
+    },
+    {
+      "src": "images/substrate/gallery/010.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 10"
+    },
+    {
+      "src": "images/substrate/gallery/011.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 11"
+    },
+    {
+      "src": "images/substrate/gallery/012.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 12"
+    },
+    {
+      "src": "images/substrate/gallery/013.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 13"
+    },
+    {
+      "src": "images/substrate/gallery/014.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 14"
+    },
+    {
+      "src": "images/substrate/gallery/015.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 15"
+    },
+    {
+      "src": "images/substrate/gallery/016.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 16"
+    },
+    {
+      "src": "images/substrate/gallery/017.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 17"
+    },
+    {
+      "src": "images/substrate/gallery/018.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 18"
+    },
+    {
+      "src": "images/substrate/gallery/019.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 19"
+    },
+    {
+      "src": "images/substrate/gallery/020.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 20"
+    },
+    {
+      "src": "images/substrate/gallery/021.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 21"
+    },
+    {
+      "src": "images/substrate/gallery/022.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 22"
+    },
+    {
+      "src": "images/substrate/gallery/023.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 23"
+    },
+    {
+      "src": "images/substrate/gallery/024.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 24"
+    },
+    {
+      "src": "images/substrate/gallery/025.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 25"
+    },
+    {
+      "src": "images/substrate/gallery/026.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 26"
+    },
+    {
+      "src": "images/substrate/gallery/027.webp",
+      "alt": "The Substrate of Extraction exhibition photograph 27"
+    }
+  ]
+},{
     "title": "ORBIT",
     "slug": "orbit",
     "date": "Aug 9, 2026",
