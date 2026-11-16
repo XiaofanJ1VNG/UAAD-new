@@ -1,0 +1,183 @@
+[
+  {
+    "id": "mesh",
+    "name": "MESH_ARTS",
+    "address": "232 Third Street, Brooklyn",
+    "coordinates": [
+      40.6734,
+      -73.9902
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "MESH_ARTS, The Old American Can Factory, Brooklyn",
+      "Mesh Art Center"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "abrons",
+    "name": "Abrons Arts Center",
+    "address": "466 Grand Street, New York",
+    "coordinates": [
+      40.715,
+      -73.9839
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "Abrons Arts Center, NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "arthaus",
+    "name": "Brooklyn Art Haus",
+    "address": "24 Marcy Avenue, Brooklyn",
+    "coordinates": [
+      40.7126,
+      -73.9517
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "Brooklyn Art Haus"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "blanc",
+    "name": "The Blanc",
+    "address": "15 East 40th Street, New York",
+    "coordinates": [
+      40.7519,
+      -73.9815
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "The Blanc"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "flora",
+    "name": "FLORA HQ",
+    "address": "300 Kent Avenue, Brooklyn",
+    "coordinates": [
+      40.7148,
+      -73.9674
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "FLORA HQ"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "broadway",
+    "name": "393 Broadway",
+    "address": "393 Broadway, New York",
+    "coordinates": [
+      40.7187,
+      -74.0025
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "393 Broadway, NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "yard",
+    "name": "NYU Tandon @ The Yard",
+    "address": "Building 22, Brooklyn Navy Yard",
+    "coordinates": [
+      40.7001,
+      -73.9722
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "NYU Tandon @ Navy Yard"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "index",
+    "name": "Index NYC",
+    "address": "120 Walker Street, New York",
+    "coordinates": [
+      40.7176,
+      -74.0003
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "Index NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "between",
+    "name": "Between Space Studio",
+    "address": "538 Johnson Avenue, Brooklyn",
+    "coordinates": [
+      40.7073,
+      -73.924
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "Between Space Studio, NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "culturehub",
+    "name": "CultureHub NYC",
+    "address": "47 Great Jones Street, New York",
+    "coordinates": [
+      40.7265,
+      -73.992
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "CultureHub NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "g-gallery",
+    "name": "G Gallery",
+    "address": "404 Broadway, New York",
+    "coordinates": [
+      40.7191,
+      -74.002
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "G Gallery, NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "sojourner",
+    "name": "Sojourner Gallery",
+    "address": "178 Bleecker Street, New York",
+    "coordinates": [
+      40.729,
+      -74.0003
+    ],
+    "city": "NYC",
+    "country": "United States",
+    "aliases": [
+      "Sojourner Gallery, NYC"
+    ],
+    "coordinatePrecision": "approximate"
+  }
+]

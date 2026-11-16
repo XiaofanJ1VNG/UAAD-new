@@ -1,159 +1,167 @@
 [
- {
-  "title": "The Substrate of Extraction",
-  "slug": "the-substrate-of-extraction",
-  "date": "Oct 23–24, 2026",
-  "year": "2026",
-  "venue": "MESH_ARTS, The Old American Can Factory, Brooklyn",
-  "tags": ["Exhibition", "Performance", "Talk"],
-  "section": "IRL",
-  "showOnHome": true,
-  "url": "https://luma.com/v77g2ygo",
-  "description": "Presented by UAAD and MESH_ARTS, a group exhibition exploring biological systems, industrial materials, and ecological transformation through sculpture, scent, moving image, and computational media.",
-"introduction": "Presented by MESH_ARTS and UAAD, The Substrate of Extraction brought biotechnology, sculpture, scent, moving image, and computational media into dialogue. Through cultured meat, microplastics, mealworms, and biological remains, the works examined how matter carries traces of industrial production, resource extraction, and ecological transformation. The exhibition asked what larger systems become visible when we attend to their smallest traces. Supported by the Agency for Cultural Affairs, Government of Japan; Japan Arts Council; CG-ARTS; WAN: Art & Tech Creators Global Network; and Japan Creator Support Fund.",
-  "role": "Organizer",
-  "cover": {
-    "src": "images/substrate/gallery/01.webp",
-    "alt": "The Substrate of Extraction exhibition"
-  },
-  "artists": [
-    {
-      "name": "Lisa Marina Komiya",
-      "headshot": "images/substrate/headshot/Marina.jpg",
-      "piece": ""
-    },
-    {
-      "name": "Tsuyoshi Anzai",
-      "headshot": "images/substrate/headshot/Tsuyoshi.jpeg",
-      "piece": ""
-    },
-    {
-      "name": "Shahira Hammad",
-      "headshot": "images/substrate/headshot/Shahira.jpeg",
-      "piece": ""
-    },
-    {
-      "name": "William Takao Eliot",
-      "headshot": "images/substrate/headshot/Will.webp",
-      "piece": ""
-    },
-    {
-      "name": "Yan Shao",
-      "headshot": "images/substrate/headshot/yan.jpg",
-      "piece": ""
-    }
-  ],
-  "images": [
-    {
+  {
+    "title": "The Substrate of Extraction",
+    "slug": "the-substrate-of-extraction",
+    "date": "Oct 23–24, 2026",
+    "year": "2026",
+    "venue": "MESH_ARTS, The Old American Can Factory, Brooklyn",
+    "tags": [
+      "Exhibition",
+      "Performance",
+      "Talk"
+    ],
+    "section": "IRL",
+    "showOnHome": true,
+    "url": "https://luma.com/v77g2ygo",
+    "description": "Presented by UAAD and MESH_ARTS, a group exhibition exploring biological systems, industrial materials, and ecological transformation through sculpture, scent, moving image, and computational media.",
+    "introduction": "Presented by MESH_ARTS and UAAD, The Substrate of Extraction brought biotechnology, sculpture, scent, moving image, and computational media into dialogue. Through cultured meat, microplastics, mealworms, and biological remains, the works examined how matter carries traces of industrial production, resource extraction, and ecological transformation. The exhibition asked what larger systems become visible when we attend to their smallest traces. Supported by the Agency for Cultural Affairs, Government of Japan; Japan Arts Council; CG-ARTS; WAN: Art & Tech Creators Global Network; and Japan Creator Support Fund.",
+    "role": "Organizer",
+    "cover": {
       "src": "images/substrate/gallery/01.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 1"
+      "alt": "The Substrate of Extraction exhibition"
     },
-    {
-      "src": "images/substrate/gallery/02.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 2"
-    },
-    {
-      "src": "images/substrate/gallery/03.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 3"
-    },
-    {
-      "src": "images/substrate/gallery/04.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 4"
-    },
-    {
-      "src": "images/substrate/gallery/05.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 5"
-    },
-    {
-      "src": "images/substrate/gallery/06.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 6"
-    },
-    {
-      "src": "images/substrate/gallery/07.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 7"
-    },
-    {
-      "src": "images/substrate/gallery/08.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 8"
-    },
-    {
-      "src": "images/substrate/gallery/09.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 9"
-    },
-    {
-      "src": "images/substrate/gallery/010.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 10"
-    },
-    {
-      "src": "images/substrate/gallery/011.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 11"
-    },
-    {
-      "src": "images/substrate/gallery/012.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 12"
-    },
-    {
-      "src": "images/substrate/gallery/013.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 13"
-    },
-    {
-      "src": "images/substrate/gallery/014.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 14"
-    },
-    {
-      "src": "images/substrate/gallery/015.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 15"
-    },
-    {
-      "src": "images/substrate/gallery/016.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 16"
-    },
-    {
-      "src": "images/substrate/gallery/017.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 17"
-    },
-    {
-      "src": "images/substrate/gallery/018.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 18"
-    },
-    {
-      "src": "images/substrate/gallery/019.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 19"
-    },
-    {
-      "src": "images/substrate/gallery/020.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 20"
-    },
-    {
-      "src": "images/substrate/gallery/021.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 21"
-    },
-    {
-      "src": "images/substrate/gallery/022.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 22"
-    },
-    {
-      "src": "images/substrate/gallery/023.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 23"
-    },
-    {
-      "src": "images/substrate/gallery/024.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 24"
-    },
-    {
-      "src": "images/substrate/gallery/025.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 25"
-    },
-    {
-      "src": "images/substrate/gallery/026.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 26"
-    },
-    {
-      "src": "images/substrate/gallery/027.webp",
-      "alt": "The Substrate of Extraction exhibition photograph 27"
-    }
-  ]
-},{
+    "artists": [
+      {
+        "name": "Lisa Marina Komiya",
+        "headshot": "images/substrate/headshot/Marina.jpg",
+        "piece": ""
+      },
+      {
+        "name": "Tsuyoshi Anzai",
+        "headshot": "images/substrate/headshot/Tsuyoshi.jpeg",
+        "piece": ""
+      },
+      {
+        "name": "Shahira Hammad",
+        "headshot": "images/substrate/headshot/Shahira.jpeg",
+        "piece": ""
+      },
+      {
+        "name": "William Takao Eliot",
+        "headshot": "images/substrate/headshot/Will.webp",
+        "piece": ""
+      },
+      {
+        "name": "Yan Shao",
+        "headshot": "images/substrate/headshot/yan.jpg",
+        "piece": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "images/substrate/gallery/01.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 1"
+      },
+      {
+        "src": "images/substrate/gallery/02.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 2"
+      },
+      {
+        "src": "images/substrate/gallery/03.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 3"
+      },
+      {
+        "src": "images/substrate/gallery/04.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 4"
+      },
+      {
+        "src": "images/substrate/gallery/05.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 5"
+      },
+      {
+        "src": "images/substrate/gallery/06.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 6"
+      },
+      {
+        "src": "images/substrate/gallery/07.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 7"
+      },
+      {
+        "src": "images/substrate/gallery/08.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 8"
+      },
+      {
+        "src": "images/substrate/gallery/09.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 9"
+      },
+      {
+        "src": "images/substrate/gallery/010.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 10"
+      },
+      {
+        "src": "images/substrate/gallery/011.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 11"
+      },
+      {
+        "src": "images/substrate/gallery/012.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 12"
+      },
+      {
+        "src": "images/substrate/gallery/013.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 13"
+      },
+      {
+        "src": "images/substrate/gallery/014.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 14"
+      },
+      {
+        "src": "images/substrate/gallery/015.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 15"
+      },
+      {
+        "src": "images/substrate/gallery/016.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 16"
+      },
+      {
+        "src": "images/substrate/gallery/017.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 17"
+      },
+      {
+        "src": "images/substrate/gallery/018.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 18"
+      },
+      {
+        "src": "images/substrate/gallery/019.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 19"
+      },
+      {
+        "src": "images/substrate/gallery/020.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 20"
+      },
+      {
+        "src": "images/substrate/gallery/021.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 21"
+      },
+      {
+        "src": "images/substrate/gallery/022.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 22"
+      },
+      {
+        "src": "images/substrate/gallery/023.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 23"
+      },
+      {
+        "src": "images/substrate/gallery/024.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 24"
+      },
+      {
+        "src": "images/substrate/gallery/025.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 25"
+      },
+      {
+        "src": "images/substrate/gallery/026.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 26"
+      },
+      {
+        "src": "images/substrate/gallery/027.webp",
+        "alt": "The Substrate of Extraction exhibition photograph 27"
+      }
+    ],
+    "footprintNumber": 23,
+    "mapMode": "physical",
+    "venueId": "mesh"
+  },
+  {
     "title": "ORBIT",
     "slug": "orbit",
     "date": "Aug 9, 2026",
@@ -312,7 +320,10 @@
         "src": "images/orbit/gallery/019.jpg",
         "alt": "ORBIT gallery photograph"
       }
-    ]
+    ],
+    "footprintNumber": 22,
+    "mapMode": "physical",
+    "venueId": "abrons"
   },
   {
     "title": "(Dis)consent: A Night of Performance and Installations",
@@ -408,7 +419,10 @@
     "cover": {
       "src": "images/consent/cover.jpg",
       "alt": "Yellow graphic artwork over a floral photograph"
-    }
+    },
+    "footprintNumber": 21,
+    "mapMode": "physical",
+    "venueId": "mesh"
   },
   {
     "title": "Worlds Adrift: UAAD x Creative Code Art",
@@ -549,7 +563,10 @@
     "cover": {
       "src": "images/adrift/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 20,
+    "mapMode": "physical",
+    "venueId": "arthaus"
   },
   {
     "title": "Attention // Distraction",
@@ -742,7 +759,10 @@
     "cover": {
       "src": "images/attention/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 19,
+    "mapMode": "physical",
+    "venueId": "blanc"
   },
   {
     "title": "FLORA Soirées",
@@ -920,7 +940,10 @@
         "date": "Oct 30, 2025",
         "year": "2025"
       }
-    ]
+    ],
+    "footprintNumber": 18,
+    "mapMode": "physical",
+    "venueId": "flora"
   },
   {
     "title": "Frankfurt Helmet + Louzhang",
@@ -993,7 +1016,10 @@
       "src": "images/frankfurt/cover.JPG",
       "alt": "Frankfurt Helmet + Louzhang cover"
     },
-    "role": "Local promotion and community outreach"
+    "role": "Local promotion and community outreach",
+    "footprintNumber": 17,
+    "mapMode": "physical",
+    "venueId": "arthaus"
   },
   {
     "title": "Neuromantics",
@@ -1197,7 +1223,10 @@
     "cover": {
       "src": "images/neuro/cover.jpg",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 16,
+    "mapMode": "physical",
+    "venueId": "broadway"
   },
   {
     "title": "nodes: i x Processing Foundation x ARTIFICE",
@@ -1297,7 +1326,10 @@
     "cover": {
       "src": "images/nodes/cover.webp",
       "alt": ""
-    }
+    },
+    "footprintNumber": 14,
+    "mapMode": "physical",
+    "venueId": "yard"
   },
   {
     "title": "TechnoMirage NYC",
@@ -1399,7 +1431,10 @@
     "cover": {
       "src": "images/mirage-nyc/cover.jpg",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 13,
+    "mapMode": "physical",
+    "venueId": "index"
   },
   {
     "title": "connect → collide → collab",
@@ -1427,7 +1462,10 @@
         "piece": "Creative headshot session"
       }
     ],
-    "cover": null
+    "cover": null,
+    "footprintNumber": 11,
+    "mapMode": "physical",
+    "venueId": "between"
   },
   {
     "title": "Reconfiguring Creativity: AI, Ethics and Emerging Practices",
@@ -1480,7 +1518,9 @@
     "cover": {
       "src": "images/reconfig/cover.jpg",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 10,
+    "mapMode": "online"
   },
   {
     "title": "[EX UTERO]: ARTIFICE 004 BLACKBOX",
@@ -1599,7 +1639,10 @@
     "cover": {
       "src": "images/ex/cover.png",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 9,
+    "mapMode": "physical",
+    "venueId": "culturehub"
   },
   {
     "title": "Jukebox of Dissonance: The UAAD Festival",
@@ -1975,7 +2018,10 @@
     "cover": {
       "src": "images/jukebox/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 7,
+    "mapMode": "physical",
+    "venueId": "g-gallery"
   },
   {
     "title": "Unbound Variable",
@@ -1993,7 +2039,10 @@
     "year": "2024",
     "introduction": "",
     "artists": [],
-    "cover": null
+    "cover": null,
+    "footprintNumber": 3,
+    "mapMode": "physical",
+    "venueId": "sojourner"
   },
   {
     "title": "TechnoMirage: Creative AI Futures",
@@ -2053,7 +2102,9 @@
         "headshot": "images/mirage-online/headshot/Dominika.avif",
         "piece": "Panelist"
       }
-    ]
+    ],
+    "footprintNumber": 15,
+    "mapMode": "online"
   },
   {
     "title": "Ghosts in the Feedback Loop",
@@ -2159,7 +2210,9 @@
     "cover": {
       "src": "images/ghost/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 12,
+    "mapMode": "online"
   },
   {
     "title": "Jukebox of Dissonance: The Virtual Exhibition",
@@ -2464,7 +2517,9 @@
     "cover": {
       "src": "images/jukebox/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 8,
+    "mapMode": "online"
   },
   {
     "title": "Care is Art, Art is Care",
@@ -2572,7 +2627,9 @@
       "src": "images/care/cover.avif",
       "alt": "Care is Art, Art is Care cover"
     },
-    "role": "Immersive virtual world development"
+    "role": "Immersive virtual world development",
+    "footprintNumber": 6,
+    "mapMode": "online"
   },
   {
     "title": "Matrix of the Not-Yet",
@@ -2698,7 +2755,9 @@
     "cover": {
       "src": "images/matrix/cover.webp",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 5,
+    "mapMode": "online"
   },
   {
     "title": "Unbound Variable",
@@ -2821,7 +2880,9 @@
     "cover": {
       "src": "images/unbound/cover.JPG",
       "alt": "Unbound Variable cover"
-    }
+    },
+    "footprintNumber": 4,
+    "mapMode": "online"
   },
   {
     "title": "Alt-Alterity: An Immersive Virtual Exhibition",
@@ -3054,7 +3115,9 @@
     "cover": {
       "src": "images/alterity/cover.jpg",
       "alt": "Project preview photograph"
-    }
+    },
+    "footprintNumber": 2,
+    "mapMode": "online"
   },
   {
     "title": "Ties That Cannot Be Unbound",
@@ -3208,7 +3271,9 @@
     "cover": {
       "src": "images/ties/cover.jpg",
       "alt": "Virtual Exhibition Screenshot"
-    }
+    },
+    "footprintNumber": 1,
+    "mapMode": "online"
   },
   {
     "title": "TechnoMirage",
