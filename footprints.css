@@ -24,11 +24,11 @@
 #fpCard > .fp-cover{display:block;width:100%;height:auto;aspect-ratio:2.2 / 1;object-fit:cover;object-position:center;border-radius:0;margin:0 0 18px}
 
 @media(max-width:767px){
-  .fp-map-wrap{height:36svh;min-height:265px}
+  .fp-map-wrap{box-sizing:border-box;width:100%;height:auto;min-height:0;aspect-ratio:1 / 1}
+  .fp-top .fp-online:not([hidden]){display:grid;grid-template-columns:repeat(5,minmax(0,44px));gap:4px;width:100%;overflow:visible;justify-content:start}
+  .fp-top .fp-online button{width:100%;min-height:44px;justify-content:center}
 }
-@media(max-width:550px){
-  .fp-map-wrap{min-height:270px}
-}
+
 
 #fpCard > :not(.fp-cover){margin-inline:var(--card-inset)}
 #fpCard > :first-child:not(.fp-cover){margin-top:var(--card-inset)}
