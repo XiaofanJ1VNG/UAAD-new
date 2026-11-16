@@ -15,6 +15,21 @@
     ],
     "coordinatePrecision": "approximate"
   },
+{
+  "id": "hex-house",
+  "name": "Hex House",
+  "address": "366 Devoe Street, Brooklyn, New York",
+  "coordinates": [
+      40.713531,-73.935962
+    ],
+  "city": "NYC",
+  "country": "United States",
+  "aliases": [
+    "Hex House, NYC",
+    "Hex House, Brooklyn"
+  ]
+},
+
   {
     "id": "abrons",
     "name": "Abrons Arts Center",
@@ -179,5 +194,19 @@
       "Sojourner Gallery, NYC"
     ],
     "coordinatePrecision": "approximate"
+  },
+  {
+    "id": "pearlona-m50",
+    "name": "Pearlona Common Room at M50",
+    "city": "Shanghai",
+    "country": "China",
+    "coordinates": [
+      31.247,
+      121.45
+    ],
+    "coordinatePrecision": "approximate",
+    "aliases": [
+      "Pearlona Common Room at M50, Shanghai"
+    ]
   }
 ]
