@@ -32,3 +32,15 @@
 
 #fpCard > :not(.fp-cover){margin-inline:var(--card-inset)}
 #fpCard > :first-child:not(.fp-cover){margin-top:var(--card-inset)}
+
+@media(max-width:767px){
+ .fp-map-tools{inset:10px 10px auto auto;padding:0;background:transparent}
+ .fp-map-tools[hidden],#fpZoomIn,#fpZoomOut{display:none}
+ .fp-map-tools #fpReset{position:relative;display:block;background:#242424;color:#fff;width:44px;height:44px;border-radius:50%;font-size:0;padding:0}
+ #fpReset::before{content:"";position:absolute;inset:0;margin:auto;display:block;width:20px;height:20px;background:center/contain no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 9a8 8 0 1 1 0 6M4 4v5h5'/%3E%3C/svg%3E")}
+ .fp-top{right:62px}
+}
+
+.fp-city-label{line-height:1.25;white-space:nowrap}.fp-city-label small{display:block;margin-top:3px;font-size:.85em;color:#bbb}
+.fp-marker .fp-dot.fp-city-active{background:#d2ff39;color:#111}
+.fp-marker .fp-dot.fp-city-pending{background:transparent;border:1px solid #d2ff39;box-shadow:none}
